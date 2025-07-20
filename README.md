@@ -6,11 +6,12 @@ A curated collection of **Java implementations** for common **Data Structures an
 
 ## 📂 Topics Covered
 
-- 📁 [Arrays](./Arrays)
-- 📁 [Sliding Window](./SlidingWindow)
-- 📁 [Strings](./Strings)
-- 📁 [Linked List](./LinkedList)
-- 📁 [Trees](./Trees)
+- 📁 [Arrays](./General-Array-problems)
+- 📁 [Searching](./Searching)
+-  📁 [Two Pointers](./TwoPointersProblem)
+- 📁 [Sliding Window](./PatternSlidingwindow)
+- 📁 [Linked List](./PatternLinkedList)
+- 📁 [Trees](./PatternBinaryTrees) 
 
 > 💡 Each folder contains Java programs with clear logic, comments, and real-world problem examples.
 
