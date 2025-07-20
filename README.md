@@ -3,17 +3,16 @@
 A curated collection of **Java implementations** for common **Data Structures and Algorithms (DSA)** problems. This repository is structured topic-wise to aid in interview preparation, competitive programming, and concept revision.
 
 ---
-
 ## 📂 Topics Covered
 
-- 📁 [Arrays](./General-Array-problems)
-- 📁 [Searching](./Searching)
--  📁 [Two Pointers](./TwoPointersProblem)
-- 📁 [Sliding Window](./PatternSlidingwindow)
-- 📁 [Linked List](./PatternLinkedList)
-- 📁 [Trees](./PatternBinaryTrees) 
-
-> 💡 Each folder contains Java programs with clear logic, comments, and real-world problem examples.
+| Topic | Description |
+|-------|-------------|
+| [General Array Problems](./General-Array-problems) | Basic and foundational problems on arrays |
+| [Pattern - Sliding Window](./Pattern%20Sliding%20window) | Sliding Window technique problems |
+| [Pattern - Two Pointers](./Two%20pointers%20problem) | Two-pointer approach-based problems |
+| [Pattern - Linked List](./Pattern%20Linked%20List) | Singly Linked List problems and variations |
+| [Pattern - Binary Tree](./Pattern%20Binary%20Tree) | Tree traversal and pattern problems |
+| [Searching](./Searching) | Linear, Binary, and other searching problems |
 
 ---
 
